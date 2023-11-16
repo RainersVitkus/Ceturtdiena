@@ -1,4 +1,4 @@
-1.
+1. Uzrakstīt 3 mainīgos, kurus nevar izmantot, atslēgu vārds ir auns.
 2.
 3.
 4.
